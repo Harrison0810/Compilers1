@@ -11,21 +11,21 @@ namespace App
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("1. Declaración de una variable tipo entero (corto, estándar o largo).");
-            int number = 16;
-            Console.WriteLine(number);
+            //Console.WriteLine("1. Declaración de una variable tipo entero (corto, estándar o largo).");
+            //int number = 16;
+            //Console.WriteLine(number);
 
             Console.WriteLine(string.Empty);
 
-            Console.WriteLine("2. Declaración de una variable tipo carácter.");
-            char character = 'c';
-            Console.WriteLine(character);
+            //Console.WriteLine("2. Declaración de una variable tipo carácter.");
+            //char character = 'c';
+            //Console.WriteLine(character);
 
             Console.WriteLine(string.Empty);
 
-            Console.WriteLine("3. Declaración de una variable tipo coma flotante(estándar, doble o cuádruple).");
-            double currency = 128.64;
-            Console.WriteLine(currency);
+            //Console.WriteLine("3. Declaración de una variable tipo coma flotante(estándar, doble o cuádruple).");
+            //double currency = 128.64;
+            //Console.WriteLine(currency);
 
             Console.WriteLine(string.Empty);
 
